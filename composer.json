@@ -21,11 +21,11 @@
             "type": "package",
             "package": {
                 "name": "exiftool/exiftool",
-                "version": "11",
+                "version": "12",
                 "source": {
                     "url": "https://github.com/exiftool/exiftool.git",
                     "type": "git",
-                    "reference": "11.84"
+                    "reference": "12.56"
                 }
             }
         }
